@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+var sites = ['https://ucl.onlinesurveys.ac.uk/anth0035-seminar-project-2_pilot', 'https://ucl.onlinesurveys.ac.uk/anth0035-seminar-project-1_pilot-2', 'https://ucl.onlinesurveys.ac.uk/anth0035-seminar-project-3_pilot'];
+window.location.replace(sites[Math.floor(Math.random()*sites.length)]);
+</script>
+</body>
+</html>
