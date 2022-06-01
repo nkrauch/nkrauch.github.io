@@ -2,7 +2,7 @@
 <html>
 <body>
 <script>
-var sites = ['https://ucl.onlinesurveys.ac.uk/anth0035-seminar-project-2_pilot', 'https://ucl.onlinesurveys.ac.uk/anth0035-seminar-project-1_pilot-2', 'https://ucl.onlinesurveys.ac.uk/anth0035-seminar-project-3_pilot'];
+var sites = ['https://www.linkedin.com/in/nadya-rauch-196a152b/', 'https://www.linkedin.com/in/nadya-rauch-196a152b/'];
 window.location.replace(sites[Math.floor(Math.random()*sites.length)]);
 </script>
 </body>
